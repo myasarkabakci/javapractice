@@ -35,6 +35,8 @@ public class C1_SwitchCaseSorusu1 {
 			System.out.println("Lütfen geçerli bir not giriniz");
 		}
 
+		
+		System.out.println();
 		scan.close();
 	//mustafa
 	}
